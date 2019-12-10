@@ -87,3 +87,5 @@ target/
 
 # Mypy cache
 .mypy_cache/
+
+nfl/nflgame/gamecenter-json/*.json.gz
